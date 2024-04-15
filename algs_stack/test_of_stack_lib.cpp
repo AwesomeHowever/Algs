@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 #include "algs_stack.h"
+#include "algs_stack.cpp"
 
 
 using namespace std;

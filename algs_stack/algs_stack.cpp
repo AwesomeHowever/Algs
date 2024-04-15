@@ -1,4 +1,5 @@
 #include <iostream>
+#include "algs_stack.h"
 
 template<class T>
 Algs::structs_of_data::stack<T>::stack()
